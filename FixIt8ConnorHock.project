@@ -37,14 +37,6 @@
             "for", 
             "for.json"
           ]
-        }, 
-        {
-          "!type": "External", 
-          "file": [
-            "forms", 
-            "response", 
-            "response.json"
-          ]
         }
       ], 
       "configxml": null, 
